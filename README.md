@@ -1,6 +1,6 @@
 # An Exploration of Japan's Internal Migration for 2022 (Japanese and English)
 
-# 2022年の国内移動者の検査（英語・日本語）
+# 2022年の国内移動者の調査（英語・日本語）
 
 #### A Jupyter notebook of my exploration:
 
